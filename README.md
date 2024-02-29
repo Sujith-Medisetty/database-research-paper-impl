@@ -1,5 +1,5 @@
 # MYSQL Technical Paper Implementation 
-## The paper associated with this project can be found [here](https://www.sciencedirect.com/science/article/pii/S1877050916318208?ref=pdf_download&fr=RR-2&rr=85cd52c01f9f458f).
+## The paper associated with this presentation can be found [here](https://www.sciencedirect.com/science/article/pii/S1877050916318208?ref=pdf_download&fr=RR-2&rr=85cd52c01f9f458f).
 
 
 # Introduction / Abstract
