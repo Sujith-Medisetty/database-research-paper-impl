@@ -1,4 +1,6 @@
-# database-research-paper-impl
+# database-research-paper-impl 
+## The paper associated with this project can be found [here](https://www.sciencedirect.com/science/article/pii/S1877050916318208?ref=pdf_download&fr=RR-2&rr=85cd52c01f9f458f).
+
 
 # Introduction / Abstract
 
@@ -49,6 +51,8 @@ The performance evaluation demonstrates varying execution times for inserting an
 
 - Patient_Social_INS_Table_selection_time.png
 - Patient_Health_INS_Table_selection_time.png
+
+### ER-Diagram can be found in ER-Diagram.png
 
 # Dummy Data SQL Scripts
 
