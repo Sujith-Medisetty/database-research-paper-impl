@@ -37,19 +37,32 @@ The performance evaluation demonstrates varying execution times for inserting an
 
 **Note:** Encryption and logging are not implemented for the following tables: Pharmacy, Patient_Generic_Details_Table (shown as black in the evaluation).
 
+# Below are the validation screenshots:
+## Insertion Time
+
+- Patient_Generic_Details_Table_insertion_time.png
+- Patient_Health_INS_Table_insertion_time.png
+- Pharmacy_insertion_time.png
+- Patient_Social_INS_Table_insertion_time.png
+
+## Selection Time
+
+- Patient_Social_INS_Table_selection_time.png
+- Patient_Health_INS_Table_selection_time.png
+
 # Dummy Data SQL Scripts
 
 This repository includes SQL scripts containing dummy data generated with the help of [filldb.info](https://filldb.info/dummy). Below are the SQL script files for each table:
 
-## Pharmacy Dummy Data
+- Pharmacy Dummy Data
 Pharmacy_dummy_data.sql- SQL script containing dummy data for the Pharmacy table.
 
-## Patient Generic Details Table Dummy Data
+- Patient Generic Details Table Dummy Data
 Patient_Generic_Details_Table_dummy_data.sql - SQL script containing dummy data for the Patient_Generic_Details_Table.
 
-## Patient Social INS Table Dummy Data
+- Patient Social INS Table Dummy Data
 Patient_Social_INS_Table_dummy_data.sql - SQL script containing dummy data for the Patient_Social_INS_Table.
 
-## Patient Health INS Table Dummy Data
+- Patient Health INS Table Dummy Data
 Patient_Health_INS_Table_dummy_data.sql - SQL script containing dummy data for the Patient_Health_INS_Table.
 
